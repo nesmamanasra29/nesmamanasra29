@@ -1,30 +1,29 @@
-<h1 align="center">Hi, I'm Nesma 👋</h1>
+<h1 align="center">Hi, I'm Nesma Manasra 👋</h1>
 
 <h3 align="center">
-Front-End Developer | React.js & JavaScript | Passionate about AI
+Front-End Developer | React.js | JavaScript | Supabase | AI Enthusiast
 </h3>
 
 <p align="center">
-I build scalable, responsive, and maintainable web applications using modern front-end practices.
-I enjoy creating clean user interfaces, improving user experience, and exploring how AI can enhance development workflows.
+I build clean, responsive, and maintainable web applications with a focus on real-world solutions, structured code, and user-friendly interfaces.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 I’m currently improving my skills in **React.js, JavaScript, and Front-End Architecture**
-- 🤖 Passionate about learning **AI** and using it to improve productivity and user experiences
-- 🎨 I care about clean UI, responsive design, and user-friendly interfaces
-- 🚀 I enjoy building real-world projects and improving them step by step
-- 📌 Focused on writing clean, organized, and maintainable code
+I'm a Front-End Developer focused on building scalable and practical web applications using **React.js**, **JavaScript**, and modern front-end practices.
+
+I care about clean UI, organized project structure, responsive design, and writing code that can be maintained and improved over time.
+
+I’m also passionate about learning **AI** and exploring how it can improve user experiences, development workflows, and future web applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,git,github,vscode" />
 </p>
 
 ---
@@ -32,24 +31,52 @@ I enjoy creating clean user interfaces, improving user experience, and exploring
 ## 🚀 Featured Projects
 
 ### 🏠 Aqari Management System
-A real estate management dashboard built with React.js, focused on clean UI, structured components, and scalable front-end logic.
 
-**Tech:** React.js, JavaScript, CSS, Supabase
+A real estate management dashboard built with React.js, focused on organizing properties, owners, leads, and dashboard workflows in a clean and scalable way.
+
+**Highlights:**
+
+- Clean dashboard layout
+- Authentication flow
+- Property and owner management
+- Supabase integration
+- Responsive front-end structure
+
+**Tech Stack:** React.js, JavaScript, CSS, Supabase
 
 ---
 
 ### 📅 Dawriy
-A smart queue management system that allows customers to book turns, owners to manage queues, and admins to approve places before publishing.
 
-**Tech:** React.js, JavaScript, Supabase, Tailwind CSS
+A smart queue management system that allows customers to book turns, business owners to manage queues, and admins to review and approve places before publishing them.
+
+**Highlights:**
+
+- Public booking flow
+- Owner dashboard
+- Admin approval workflow
+- Queue status management
+- Scalable front-end structure
+
+**Tech Stack:** React.js, JavaScript, Supabase, Tailwind CSS
+
+---
+
+## 📌 What I Focus On
+
+- Building real-world front-end applications
+- Writing clean and maintainable code
+- Creating responsive and user-friendly interfaces
+- Improving project architecture step by step
+- Learning AI and applying it to modern web development
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nesmamanasra29&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmamanasra29&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
@@ -57,10 +84,10 @@ A smart queue management system that allows customers to book turns, owners to m
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/nesmamanasra99/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nesma%20Manasra-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nesmazak1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -68,5 +95,5 @@ A smart queue management system that allows customers to book turns, owners to m
 ---
 
 <p align="center">
-  ✨ Always learning, building, and improving ✨
+  Always learning, building, and improving ✨
 </p>
