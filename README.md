@@ -1,22 +1,40 @@
 <h1 align="center">Hi, I'm Nesma Manasra 👋</h1>
 
 <h3 align="center">
-Front-End Developer | React.js | JavaScript | Supabase | AI Enthusiast
+Front-End Developer focused on React.js, JavaScript, Supabase, and AI-powered development
 </h3>
 
 <p align="center">
-I build clean, responsive, and maintainable web applications with a focus on real-world solutions, structured code, and user-friendly interfaces.
+I build clean, responsive, and maintainable web applications with a strong focus on real-world workflows, scalable structure, and user-friendly experiences.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Front-End Developer focused on building scalable and practical web applications using **React.js**, **JavaScript**, and modern front-end practices.
+I'm a Front-End Developer who enjoys turning ideas into practical, well-structured web applications.
 
-I care about clean UI, organized project structure, responsive design, and writing code that can be maintained and improved over time.
+My focus is not only on building beautiful interfaces, but also on understanding the full user flow, organizing the project structure, writing maintainable code, and thinking about how the product can grow over time.
 
-I’m also passionate about learning **AI** and exploring how it can improve user experiences, development workflows, and future web applications.
+I work mainly with **React.js**, **JavaScript**, **Supabase**, and modern front-end practices.
+
+I’m also deeply interested in **AI** and how it can support modern software development — from improving productivity and debugging workflows to creating smarter user experiences and better product decisions.
+
+---
+
+## 🤖 My AI Learning Direction
+
+I believe AI is becoming an important part of the future of front-end development, so I’m actively learning how to use it in a practical and professional way.
+
+My current AI learning focus includes:
+
+- Using AI tools to improve development speed and code quality
+- Understanding how AI can enhance user experience inside web applications
+- Learning how to connect AI features with real-world products
+- Exploring AI-assisted workflows for debugging, planning, documentation, and UI improvement
+- Building a strong foundation to combine front-end development with AI-powered solutions
+
+My goal is to become a developer who can build modern interfaces and also think about how AI can make products smarter, faster, and more useful.
 
 ---
 
@@ -34,50 +52,55 @@ I’m also passionate about learning **AI** and exploring how it can improve use
 
 A real estate management dashboard built with React.js, focused on organizing properties, owners, leads, and dashboard workflows in a clean and scalable way.
 
-**Highlights:**
+**What this project shows:**
 
-- Clean dashboard layout
-- Authentication flow
-- Property and owner management
+- Building dashboard-based applications
+- Managing structured data and user flows
+- Authentication and protected pages
 - Supabase integration
-- Responsive front-end structure
+- Clean component structure
+- Responsive UI implementation
 
 **Tech Stack:** React.js, JavaScript, CSS, Supabase
 
 ---
 
-### 📅 Dawriy
+### 📅 Dawriy — Smart Queue Management System
 
 A smart queue management system that allows customers to book turns, business owners to manage queues, and admins to review and approve places before publishing them.
 
-**Highlights:**
+**What this project shows:**
 
-- Public booking flow
-- Owner dashboard
-- Admin approval workflow
-- Queue status management
-- Scalable front-end structure
+- Multi-role system thinking
+- Public, owner, and admin workflows
+- Queue booking flow
+- Admin approval process
+- Scalable front-end architecture
+- Real-world product planning
 
 **Tech Stack:** React.js, JavaScript, Supabase, Tailwind CSS
 
 ---
 
-## 📌 What I Focus On
+## 📌 What I Care About as a Developer
 
-- Building real-world front-end applications
-- Writing clean and maintainable code
-- Creating responsive and user-friendly interfaces
-- Improving project architecture step by step
-- Learning AI and applying it to modern web development
+- Writing clean, readable, and maintainable code
+- Building responsive interfaces that work well across devices
+- Structuring projects in a way that can scale
+- Understanding the full product workflow, not just the UI
+- Improving user experience through clear and simple design
+- Learning AI and applying it to real front-end development problems
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Improving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nesmamanasra29&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmamanasra29&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
+- Advanced React patterns
+- Front-end architecture
+- Supabase best practices
+- Authentication and dashboard workflows
+- AI-assisted development
+- Product thinking and user experience
 
 ---
 
@@ -95,5 +118,5 @@ A smart queue management system that allows customers to book turns, business ow
 ---
 
 <p align="center">
-  Always learning, building, and improving ✨
+  Building. Learning. Improving. Exploring AI for better web experiences. ✨
 </p>
